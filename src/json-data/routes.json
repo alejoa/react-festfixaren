@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Göteborg - Fredrikshamn",
+    "url": "gofr"
+  },
+  {
+    "name": "Varberg - Grenå",
+    "url": "vagr"
+  },
+  {
+    "name": "Göteborg - Kiel",
+    "url": "goki"
+  },
+  {
+    "name": "Trelleborg - Sassnitz",
+    "url": "tbsa"
+  },
+  {
+    "name": "Trelleborg - Rostock",
+    "url": "tbro"
+  },
+  {
+    "name": "Karlskrona - Gdynia",
+    "url": "kagd"
+  },
+  {
+    "name": "Nynäshamn - Ventspils",
+    "url": "nyve"
+  }
+]

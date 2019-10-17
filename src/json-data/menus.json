@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Julbord",
+    "desc": "Snaps till julbordet är nästan lika mycket tradition som köttbullarna, så res med Stena Line och handla i Bordershop ombord så kan du både spara pengar och fixa drycken till julbordet. Här har vi valt några klassiker, som t ex Herrgårds akvavit och Blossa.",
+    "list": [
+      "Snaps OP Anderson (100 cl)",
+      "The Famous Grouse (100cl)",
+      "Sitting Bull IPA (24st 33cl)",
+      "Carlsberg Hof can (24st 33cl)"
+    ],
+    "recAmount": [0.04, 0.04, 0.042, 0.042],
+    "recPrice": [399, 398, 542, 310],
+    "kagdPrice": [169, 219, 299, 125],
+    "gofrPrice": [219, 239, 299, 149],
+    "vagrPrice": [219, 239, 299, 149],
+    "gokiPrice": [159, 199, 299, 149],
+    "tbsaPrice": [159, 199, null, 109],
+    "tbroPrice": [159, 199, null, 109],
+    "nyvePrice": [null, null, null, null]
+  },
+  {
+    "name": "Kräftskiva",
+    "desc": "",
+    "list": [
+      "Snaps OP Anderson (100 cl)",
+      "Lindemans Chardonnay (3L)",
+      "Sitting Bull IPA (24st 33cl)",
+      "Carlsberg Hof can (24st 33cl)",
+      "Aperol Apertif (100cl)"
+    ],
+    "recAmount": [0.04, 0.042, 0.042, 0.042, 0.04],
+    "recPrice": [399, 239, 542, 310, 241],
+    "kagdPrice": [169, 169, 299, 119, 159],
+    "gofrPrice": [199, 199, 299, 149, 149],
+    "vagrPrice": [199, 199, 299, 149, 149],
+    "gokiPrice": [149, 129, 299, 109, 149],
+    "tbsaPrice": [149, 129, null, 109, 149],
+    "tbroPrice": [149, 129, null, 109, 149],
+    "nyvePrice": [null, null, null, null, null]
+  },
+  {
+    "name": "Nyårsfest",
+    "desc": "Mousserande till välkomstdrink, vitt vin till toastskagen, rött vin till oxfilén, och likör till desserten. Här har vi plockat ihop några klassiker som passar till de flesta nyårsmenyerna.",
+    "list": [
+      "Chill Out Chardonnay (3L)",
+      "The Wanted Zin - Wanted Zin Old Vi Zinfandel (3L)",
+      "Sitting Bull IPA (24st 33cl)",
+      "Carlsberg Hof can (24st 33cl)",
+      "Piper Heidsieck - Champagne Brut (75cl)",
+      "Freixentet Ice (75cl)"
+    ],
+    "recAmount": [0.042, 0.042, 0.042, 0.042, 0.17, 0.17],
+    "recPrice": [219, 269, 542, 310, 379, 124],
+    "kagdPrice": [149, 189, 299, 125, 329, 89],
+    "gofrPrice": [179, 219, 299, 149, 339, 89],
+    "vagrPrice": [179, 219, 299, 149, 339, 89],
+    "gokiPrice": [125, 159, 299, 109, 309, 85],
+    "tbsaPrice": [125, 159, null, 109, 309, 85],
+    "tbroPrice": [125, 159, null, 109, 309, 85],
+    "nyvePrice": [null, null, null, null, null, null]
+  },
+  {
+    "name": "Halloweenfest",
+    "desc": "",
+    "list": [
+      "Plantation - Grande Reserve Plantaion PI (1L)",
+      "Absolut vodka Blue (1L)",
+      "Sitting Bull IPA (24st 33cl)",
+      "Carlsberg Hof can (24st 33cl)",
+      "Aperol Apertif (100cl)"
+    ],
+    "recAmount": [0.04, 0.04, 0.042, 0.042, 0.04],
+    "recPrice": [413, 341, 542, 310, 241],
+    "kagdPrice": [219, 179, 299, 125, 159],
+    "gofrPrice": [239, 199, 299, 149, 149],
+    "vagrPrice": [239, 199, 299, 149, 149],
+    "gokiPrice": [199, 159, 299, 109, 149],
+    "tbsaPrice": [199, 159, null, 109, 149],
+    "tbroPrice": [199, 159, null, 109, 149],
+    "nyvePrice": [null, null, null, null, null]
+  },
+  {
+    "name": "Afterski",
+    "desc": "",
+    "list": [
+      "Carlsberg Hof can (24st 33cl)",
+      "Fireball Cinnamon Whiskey (1L)",
+      "Jägermeister Bitter (1L)",
+      "Minttuu Peppermint (1L)"
+    ],
+    "recAmount": [0.042, 0.04, 0.04, 0.04],
+    "recPrice": [310, 398, 398, 192],
+    "kagdPrice": [125, 199, 239, 109],
+    "gofrPrice": [149, 229, 269, 129],
+    "vagrPrice": [149, 229, 269, 129],
+    "gokiPrice": [109, 199, 229, 99],
+    "tbsaPrice": [109, 199, 229, 99],
+    "tbroPrice": [109, 199, 229, 99],
+    "nyvePrice": [null, null, null, null]
+  },
+  {
+    "name": "Fest",
+    "desc": "",
+    "list": [
+      "Sitting Bull IPA (24st 33cl)",
+      "Carlsberg Hof can (24st 33cl)",
+      "Freixentet Ice (75cl)",
+      "Plantation - Grande Reserve Plantaion PI (1L)",
+      "Absolut vodka Blue (1L)",
+      "Aperol Apertif (100cl)",
+      "Chill Out Chardonnay (3L)",
+      "The Wanted Zin - Wanted Zin Old Vi Zinfandel (3L)",
+      "Chill Out Bright & Breezy Rose Bib (3L)",
+      "Sierra Tequila Silver (50cl)"
+    ],
+    "recAmount": [
+      0.042,
+      0.042,
+      0.17,
+      0.04,
+      0.04,
+      0.04,
+      0.042,
+      0.042,
+      0.042,
+      0.08
+    ],
+    "recPrice": [542, 310, 124, 413, 341, 241, 219, 269, 209, 199],
+    "kagdPrice": [299, 125, 89, 219, 179, 159, 149, 189, 155, 139],
+    "gofrPrice": [299, 149, 89, 239, 199, 149, 179, 219, 179, 139],
+    "vagrPrice": [299, 149, 89, 239, 199, 149, 179, 219, 179, 139],
+    "gokiPrice": [299, 109, 85, 199, 159, 149, 125, 159, 129, 119],
+    "tbsaPrice": [null, 109, 85, 199, 159, 149, 125, 159, 129, 119],
+    "tbroPrice": [null, 109, 85, 199, 159, 149, 125, 159, 129, 119],
+    "nyvePrice": [null, null, null, null, null, null, null, null, null, null]
+  }
+]
